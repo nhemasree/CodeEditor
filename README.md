@@ -1,6 +1,6 @@
 This project is a lightweight Python Code Editor built using the Tkinter library. It allows users to write, edit, save, and execute Python code within a simple and intuitive graphical interface. The editor provides an integrated output console, multiple file-handling options, and theme customization for a better coding experience.
 
-Features
+* Features
 
 Create, Open, Save, and Save As Python files.
 
@@ -14,7 +14,7 @@ Integrated output console for viewing results.
 
 Keyboard shortcuts for fast operations (Ctrl+S, Ctrl+N, Ctrl+O, etc.).
 
- Technologies Used
+* Technologies Used
 
 Language: Python
 
@@ -22,7 +22,7 @@ GUI Library: Tkinter
 
 Modules Used: os, subprocess, filedialog, messagebox
 
- How It Works
+* How It Works
 
 The user writes or opens a .py file inside the text area.
 
@@ -34,11 +34,11 @@ Files can be saved, reopened, or created anew easily through the menu options.
 
 The theme toggle allows switching between light and dark modes dynamically.
 
- Why This Project
+* Why This Project
 
 This editor demonstrates how to combine Python GUI programming and file handling to create a practical, beginner-friendly IDE-like environment. It’s perfect for learning Tkinter, subprocess handling, and event-driven programming in Python.
 
- Future Enhancements
+* Future Enhancements
 
 Syntax highlighting for Python keywords.
 
