@@ -37,11 +37,3 @@ The theme toggle allows switching between light and dark modes dynamically.
 * Why This Project
 
 This editor demonstrates how to combine Python GUI programming and file handling to create a practical, beginner-friendly IDE-like environment. It’s perfect for learning Tkinter, subprocess handling, and event-driven programming in Python.
-
-* Future Enhancements
-
-Syntax highlighting for Python keywords.
-
-Line numbering and auto-indentation.
-
-Code suggestion and autocomplete.
